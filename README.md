@@ -5,11 +5,12 @@ light themes for optimal viewing experience.
 
 # Features
 Dark and Light Themes: Customize your reading experience with the choice of dark or light themes to suit your preference and environment.
-Bookmarking: Save interesting articles for later reference. Bookmarking feature allows you to create a curated list of news articles you want to revisit.
-Category Classification: Easily navigate through different categories such as Business, Technology, Sports, and more to discover news relevant to your interests.
-Search Functionality: Find specific articles by searching with titles, authors, or keywords. The search feature enhances accessibility and enables quick access to relevant information.
-Getting Started
 
+Bookmarking: Save interesting articles for later reference. Bookmarking feature allows you to create a curated list of news articles you want to revisit.
+
+Category Classification: Easily navigate through different categories such as Business, Technology, Sports, and more to discover news relevant to your interests.
+
+Search Functionality: Find specific articles by searching with titles, authors, or keywords. The search feature enhances accessibility and enables quick access to relevant information.
 
 # To run the app locally, follow these steps:
 
